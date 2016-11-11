@@ -14,6 +14,7 @@
 * React
    * Life Cycle Methods
    * Functions vs Classes
+   * Forms in React
 * [Redux](React.md)
    * [Writing Good Selectors](writing_good_selectors.md)
    * [Writing Good Actions](writing_good_actions.md)
