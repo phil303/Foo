@@ -7,6 +7,7 @@
    * Fat Arrow Syntax
    * Promises and Aysnc/Await
    * Destructuring
+   * String Interpolation
 * React
 * [Redux](React.md)
 * Style Guide
