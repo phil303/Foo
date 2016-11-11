@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [ES6](ES6.md)
    * Fat Arrow Syntax
+   * Promise and Aysnc/Await
 * React
 * [Redux](React.md)
 * Style Guide
