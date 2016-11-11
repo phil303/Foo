@@ -20,6 +20,6 @@
    * [Writing Good Actions](writing_good_actions.md)
 * Style Guide
    * [React](react.md)
-   * Redux
+   * [Redux](redux.md)
    * ES6
 
