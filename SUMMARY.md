@@ -1,7 +1,8 @@
 # Summary
 
+* [Introduction](README.md)
 * ES6
-* Redux
+* [Redux](React.md)
 * Style Guide
    * React
    * Redux
