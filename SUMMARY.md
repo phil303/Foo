@@ -10,6 +10,7 @@
    * String Interpolation
    * Symbols/WeakSet/WeakMap
    * Importing/Exporting Modules
+   * Class Syntax
 * React
 * [Redux](React.md)
 * Style Guide
