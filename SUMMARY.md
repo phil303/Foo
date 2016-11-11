@@ -21,5 +21,5 @@
 * Style Guide
    * [React](react.md)
    * [Redux](redux.md)
-   * ES6
+   * [ES6](es6.md)
 
