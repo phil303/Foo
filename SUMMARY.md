@@ -5,7 +5,7 @@
 * [ES6](ES6.md)
    * [Variable Declarations (const vs let vs var)](variable_declarations_const_vs_let_vs_var.md)
    * [String Interpolation](string_interpolation.md)
-   * Fat Arrow Syntax
+   * [Fat Arrow Syntax](fat_arrow_syntax.md)
    * Destructuring
    * Class Syntax
    * Importing/Exporting Modules
