@@ -7,7 +7,7 @@
    * [String Interpolation](string_interpolation.md)
    * [Fat Arrow Syntax](fat_arrow_syntax.md)
    * [Destructuring](destructuring.md)
-   * Class Syntax
+   * [Class Syntax](class_syntax.md)
    * Importing/Exporting Modules
    * Promises and Aysnc/Await
    * Symbols/WeakSet/WeakMap
