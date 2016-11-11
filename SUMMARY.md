@@ -13,7 +13,7 @@
    * [Symbols/WeakSet/WeakMap](symbolsweaksetweakmap.md)
 * React
 * [Redux](React.md)
-   * Writing Good Actions
+   * [Writing Good Actions](writing_good_actions.md)
 * Writing Good Actions
 * Style Guide
    * React
