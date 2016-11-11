@@ -9,8 +9,8 @@
    * Destructuring
    * Class Syntax
    * Importing/Exporting Modules
-   * Symbols/WeakSet/WeakMap
    * Promises and Aysnc/Await
+   * Symbols/WeakSet/WeakMap
 * React
 * [Redux](React.md)
 * Style Guide
