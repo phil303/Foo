@@ -6,7 +6,7 @@
    * [Variable Declarations (const vs let vs var)](variable_declarations_const_vs_let_vs_var.md)
    * [String Interpolation](string_interpolation.md)
    * [Fat Arrow Syntax](fat_arrow_syntax.md)
-   * Destructuring
+   * [Destructuring](destructuring.md)
    * Class Syntax
    * Importing/Exporting Modules
    * Promises and Aysnc/Await
