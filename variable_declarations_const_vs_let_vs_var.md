@@ -16,7 +16,7 @@ Let's start with the quintessential `var` gotcha. Open up your console, paste in
 })();
 ```
 
-Did you think you'd see 5 five times? Why does this happen? `var` variables are function scoped. What the JS parser sees is more like this:
+Did you think you'd see 5 five times? Why does this happen? `var` variables are function scoped, so what the JS parser sees is more like this:
 
 ```js
 (function() {
