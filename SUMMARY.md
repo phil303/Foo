@@ -2,4 +2,5 @@
 
 * Style Guide
    * React
+   * Redux
 
