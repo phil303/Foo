@@ -8,9 +8,9 @@
    * Fat Arrow Syntax
    * Destructuring
    * Class Syntax
-   * Symbols/WeakSet/WeakMap
    * Importing/Exporting Modules
    * Promises and Aysnc/Await
+* Symbols/WeakSet/WeakMap
 * React
 * [Redux](React.md)
 * Style Guide
