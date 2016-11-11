@@ -12,7 +12,7 @@
    * [Promises and Aysnc/Await](promises_and_aysncawait.md)
    * [Symbols/WeakSet/WeakMap](symbolsweaksetweakmap.md)
 * React
-   * Life Cycle Methods
+   * [Life Cycle Methods](life_cycle_methods.md)
    * Functions vs Classes
    * Forms in React
 * [Redux](React.md)
