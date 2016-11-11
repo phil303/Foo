@@ -8,7 +8,7 @@
    * [Fat Arrow Syntax](fat_arrow_syntax.md)
    * [Destructuring](destructuring.md)
    * [Class Syntax](class_syntax.md)
-   * Importing/Exporting Modules
+   * [Importing/Exporting Modules](importingexporting_modules.md)
    * Promises and Aysnc/Await
    * Symbols/WeakSet/WeakMap
 * React
