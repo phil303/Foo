@@ -14,7 +14,7 @@
 * React
    * [Life Cycle Methods](life_cycle_methods.md)
    * Functions vs Classes
-   * Forms in React
+   * [Forms in React](forms_in_react.md)
 * [Redux](React.md)
    * [Writing Good Selectors](writing_good_selectors.md)
    * [Writing Good Actions](writing_good_actions.md)
