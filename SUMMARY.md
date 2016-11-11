@@ -7,10 +7,10 @@
    * String Interpolation
    * Fat Arrow Syntax
    * Destructuring
+   * Class Syntax
    * Symbols/WeakSet/WeakMap
    * Importing/Exporting Modules
    * Promises and Aysnc/Await
-   * Class Syntax
 * React
 * [Redux](React.md)
 * Style Guide
