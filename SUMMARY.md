@@ -19,7 +19,7 @@
    * [Writing Good Selectors](writing_good_selectors.md)
    * [Writing Good Actions](writing_good_actions.md)
 * Style Guide
-   * React
+   * [React](react.md)
    * Redux
    * ES6
 
