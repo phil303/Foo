@@ -3,6 +3,5 @@ The Reddit frontend stack is built with a combination of ES6 (or ES2015), React,
 
 
 
-[Quick Start - Building a Reddit app by Example](building_a_reddit_app_by_example.md)
-
-Now You're Cooking With ES6 - the Basics
+- [Quick Start - Building a Reddit app by Example](building_a_reddit_app_by_example.md)
+- [Now You're Cooking With ES6 - the Basics](ES6.md)
