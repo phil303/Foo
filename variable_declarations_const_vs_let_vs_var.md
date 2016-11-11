@@ -41,6 +41,8 @@ function returnMyName(lastName) {
   }
   return myName;
 }
+
+returnMyName();
 ```
 
 Guess what this returns if I don't pass in `lastName`. Try it out yourself. If you're surprised at the `undefined` that is returned, let's stop and figure out why.
@@ -50,7 +52,7 @@ Remember, any time we used `var`, we create a variable that is function scoped. 
 ```js
 var myName = 'Phil';
 function returnMyName(lastName) {
-  var myName;    // the source of the bug
+  var myName;        // ruh oh
   if (lastName) {
     myName = 'Phil ' + lastName; 
   }
