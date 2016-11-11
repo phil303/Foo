@@ -5,4 +5,5 @@
    * Redux
    * ES6
 * Redux
+* React
 
