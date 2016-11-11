@@ -29,7 +29,7 @@ Did you think you'd see 5 five times? Why does this happen? `var` variables are 
 })();
 ```
 
-Declaring `var` inside the loop the first time meant we were mutating it on each pass. It's the same variable at the function scope.
+Declaring `var` like we did meant we were actually mutating it on each pass. It's the same variable at the function scope.
 
 Let's illustrate another issue with var:
 
