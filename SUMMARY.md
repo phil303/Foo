@@ -8,6 +8,7 @@
    * Promises and Aysnc/Await
    * Destructuring
    * String Interpolation
+   * Symbols/WeakSet/WeakMap
 * React
 * [Redux](React.md)
 * Style Guide
