@@ -2,9 +2,9 @@
 
 * [Introduction](README.md)
 * [ES6](ES6.md)
+   * Variable declarations (const vs let vs var)
    * Fat Arrow Syntax
    * Promises and Aysnc/Await
-   * Variable declarations (const vs let vs var)
 * React
 * [Redux](React.md)
 * Style Guide
