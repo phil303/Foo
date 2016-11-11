@@ -12,6 +12,7 @@
    * [Promises and Aysnc/Await](promises_and_aysncawait.md)
    * [Symbols/WeakSet/WeakMap](symbolsweaksetweakmap.md)
 * React
+* Writing Good Actions
 * [Redux](React.md)
    * Writing Good Actions
 * Style Guide
