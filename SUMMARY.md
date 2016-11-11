@@ -13,7 +13,7 @@
    * [Symbols/WeakSet/WeakMap](symbolsweaksetweakmap.md)
 * React
    * [Life Cycle Methods](life_cycle_methods.md)
-   * Functions vs Classes
+   * [Functions vs Classes](functions_vs_classes.md)
    * [Forms in React](forms_in_react.md)
 * [Redux](React.md)
    * [Writing Good Selectors](writing_good_selectors.md)
