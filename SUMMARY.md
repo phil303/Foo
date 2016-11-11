@@ -15,7 +15,6 @@
 * [Redux](React.md)
    * [Writing Good Selectors](writing_good_selectors.md)
    * [Writing Good Actions](writing_good_actions.md)
-* Writing Good Actions
 * Style Guide
    * React
    * Redux
