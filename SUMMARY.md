@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* Building a Reddit App by Example
 * [ES6](ES6.md)
    * Variable declarations (const vs let vs var)
    * Fat Arrow Syntax
@@ -12,5 +13,4 @@
    * React
    * Redux
    * ES6
-* Building a Reddit App by Example
 
