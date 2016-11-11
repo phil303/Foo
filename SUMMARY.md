@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * Building a Reddit App by Example
 * [ES6](ES6.md)
-   * Variable declarations (const vs let vs var)
+   * Variable Declarations (const vs let vs var)
    * Fat Arrow Syntax
    * Promises and Aysnc/Await
    * Destructuring
