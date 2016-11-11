@@ -12,6 +12,7 @@
    * [Promises and Aysnc/Await](promises_and_aysncawait.md)
    * [Symbols/WeakSet/WeakMap](symbolsweaksetweakmap.md)
 * React
+   * Life Cycle Methods
 * [Redux](React.md)
    * [Writing Good Selectors](writing_good_selectors.md)
    * [Writing Good Actions](writing_good_actions.md)
