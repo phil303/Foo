@@ -8,4 +8,5 @@
    * React
    * Redux
    * ES6
+* Building a Reddit App by Example
 
