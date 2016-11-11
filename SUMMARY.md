@@ -9,6 +9,7 @@
    * Destructuring
    * String Interpolation
    * Symbols/WeakSet/WeakMap
+   * Importing/Exporting Modules
 * React
 * [Redux](React.md)
 * Style Guide
