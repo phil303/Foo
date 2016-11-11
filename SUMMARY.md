@@ -10,7 +10,7 @@
    * [Class Syntax](class_syntax.md)
    * [Importing/Exporting Modules](importingexporting_modules.md)
    * [Promises and Aysnc/Await](promises_and_aysncawait.md)
-   * Symbols/WeakSet/WeakMap
+   * [Symbols/WeakSet/WeakMap](symbolsweaksetweakmap.md)
 * React
 * [Redux](React.md)
 * Style Guide
