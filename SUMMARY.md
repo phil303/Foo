@@ -5,6 +5,7 @@
    * Variable declarations (const vs let vs var)
    * Fat Arrow Syntax
    * Promises and Aysnc/Await
+   * Destructuring
 * React
 * [Redux](React.md)
 * Style Guide
