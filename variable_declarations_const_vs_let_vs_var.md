@@ -45,7 +45,7 @@ function returnMyName(lastName) {
 returnMyName();
 ```
 
-Guess what this returns if I don't pass in `lastName`. Try it out yourself. If you're surprised at the `undefined` that is returned, let's stop and figure out why.
+If I don't pass in `lastName`, what does this return? Try it out yourself. If you're surprised at the `undefined` that is returned, let's stop and figure out why.
 
 Remember, any time we used `var`, we create a variable that is function scoped. The JS parser is actually looking at that function and effectively doing something like this:
 
