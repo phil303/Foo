@@ -118,8 +118,11 @@ x = 'z';
 
 Generally speaking, you're going to be using `const` the vast majority of the time. `const` implies the intention that you won't be redefining or mutating this value. Now, this isn't the complete truth but it's close enough to give your readers some more semantic value.
 
-Here's some examples
-
+Here's some examples where this isn't the case.
+```js
+const mutableObject = {};
+mutableObject['key'] = 'value';      // not a problem
+```
 
 
 ### Hoisting with const and let
