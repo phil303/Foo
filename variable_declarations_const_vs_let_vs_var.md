@@ -102,6 +102,7 @@ Awesome! We've fixed that issue too.
 While `const` and `let` are similar in terms of their block scoping, they have different constraints - with various implications falling out of those constraints.
 
 `const` has two constraints - 1. You must set it to a value at declaration time and 2. You can't redefine it as another value. Once it's set, it's set for life.
+
 `let` is a little more flexible. You can choose to set it at a later time and you can redefine it whenever you want.
 
 ```js
