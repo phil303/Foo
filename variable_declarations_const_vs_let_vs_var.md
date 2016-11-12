@@ -16,7 +16,7 @@ Let's start with the quintessential `var` gotcha. Open up your console, paste in
 })();
 ```
 
-Did you think you'd see 5 five times? Why does this happen? `var` variables are function scoped, so what the JS parser sees is more like this:
+Did you think you'd see `5` five times? Why does this happen? `var` variables are function scoped, so what the JS parser sees is more like this:
 
 ```js
 (function() {
@@ -31,7 +31,7 @@ Did you think you'd see 5 five times? Why does this happen? `var` variables are 
 
 Declaring `var` like we did meant we were actually mutating it on each pass. Ack!
 
-Let's illustrate another issue with var:
+Let's illustrate another issue with `var`:
 
 ```js
 var myName = 'Phil';
@@ -52,7 +52,7 @@ Remember, any time we used `var`, we create a variable that is function scoped. 
 ```js
 var myName = 'Phil';
 function returnMyName(lastName) {
-  var myName;        // ruh oh
+  var myName;        // Ruh oh. `myName` just got set to undefined
   if (lastName) {
     myName = 'Phil ' + lastName; 
   }
@@ -63,3 +63,30 @@ function returnMyName(lastName) {
 This is called hoisting and it's the source of a lot of confusion for newbie and master Javascripters alike.
 
 ### Introducing const and let
+Now, let's be clear here. `const` and `let` don't remove hoisting. Hoisting is actually a very useful thing but was weirdly implemented in JS.
+
+Let's try those same examples with `let` before we go into the difference between the two.
+
+```js
+(function() {
+  for (let i=0; i < 5; i++) {
+    setTimeout(function() {
+      console.log('i is ' + i);
+    }, 1000);
+  }
+})();
+```
+
+This now prints out what we expect it to. What changed? Scoping. Both `const` and `let` are block scoped. Any time there's a set of curlies, the code in-between gets a new scope. In this example, each loop and each `setTimeout` callback gets its own `i` reference. No mutating.
+
+Let's try our second example.
+
+```js
+let myName = 'Phil';
+function returnMyName(lastName) {
+  if (lastName) {
+    let myName = 'Phil ' + lastName; 
+  }
+  return myName;
+}
+```
