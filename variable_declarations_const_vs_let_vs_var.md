@@ -125,6 +125,8 @@ const mutableObject = {};
 mutableObject['key'] = 'value';      // not a problem
 ```
 
+We're going to talk about how to deal with that in 
+
 
 ### Hoisting with const and let
 Contrary to popular belief, const and let **are** hoisted. All declarations (`var`, `let`, `const`, `function`, `class`) are hoisted in Javascript.
