@@ -11,7 +11,7 @@
    * [Importing/Exporting Modules](importingexporting_modules.md)
    * [Promises and Aysnc/Await](promises_and_aysncawait.md)
    * [Symbols/WeakSet/WeakMap](symbolsweaksetweakmap.md)
-   * Spread Operator
+   * [Spread Operator](spread_operator.md)
 * React
    * [Life Cycle Methods](life_cycle_methods.md)
    * [Functions vs Classes](functions_vs_classes.md)
